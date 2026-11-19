@@ -14313,9 +14313,9 @@ timers-browserify@^1.0.1:
     process "~0.11.0"
 
 tiny-secp256k1@^2.2.3:
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/tiny-secp256k1/-/tiny-secp256k1-2.2.4.tgz#1d9e45c2facb8607847da71a0a3d9cb2fd027eb2"
-  integrity sha512-FoDTcToPqZE454Q04hH9o2EhxWsm7pOSpicyHkgTwKhdKWdsTUuqfP5MLq3g+VjAtl2vSx6JpXGdwA2qpYkI0Q==
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/tiny-secp256k1/-/tiny-secp256k1-2.2.5.tgz#23f3a74de93f1f2aebe97771f7d8f36d4b8c36f0"
+  integrity sha512-SayewBxdprZxU7VSugGb/LZsU3zOEtZnT7aCqSEIRtXRO4jpxS5IyWmvGEWVxCdaO8SSyB0OHf1B/VtC3szytg==
   dependencies:
     uint8array-tools "0.0.7"
 
